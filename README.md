@@ -40,6 +40,3 @@ You can copy the result with a click — visual feedback makes it feel polished.
 A strength bar analyzes the generated password based on length and character variety.
 
 ---
-├── tailwind.config.js    # Tailwind CSS configuration
-├── vite.config.js        # Vite configuration
-└── README.md             # Project documentation
